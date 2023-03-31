@@ -1,0 +1,3 @@
+[submodule "vendor/LibreTranslate"]
+	path = vendor/LibreTranslate
+	url = https://github.com/LibreTranslate/LibreTranslate
